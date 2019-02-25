@@ -174,7 +174,6 @@ Besides Ex-CVP sales qualifying for the "new car" dealer cash programs, C3 typic
 
 I don't recommend worrying about or including these amounts since it's difficult to keep track of and usually not a significant amount. (e.g $25/unit for the PPM honorarium.)
 
----
 
 ### **Final Notes**
 ---
@@ -185,4 +184,4 @@ I don't recommend worrying about or including these amounts since it's difficult
 * For me, the easiest way to prepare for sending is to download both the NetStar retail report for New & Pre-owned to a spreadsheet, download a list of sales for the PMG month from CDK Drive to another spreadsheet, and proceed to match up the programs with each of the Vins according to how they are retailed for both PMG & MB. 
 
 <br><br>
-Hope this helps and happy accounting! 
+***Hope this helps and happy accounting!***
