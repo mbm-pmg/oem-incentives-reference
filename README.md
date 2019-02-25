@@ -1,12 +1,10 @@
-<style> * {font-family: "roboto", sans-serif; line-height: 1.5em;} h1,h2,h3 {font-family: "open-sans", sans-serif; } h2 { color: #777; } h3 { color: #4285f4; font-size: 1.5em; margin-bottom: 0;} hr {opacity: .5} .date {font-size: larger; color: #777;} th{background: #e0e6ee;} code {color: #659999;} img {filter: grayscale(100%) brightness(0%);}</style>
-
 # MBM | PMG :  Dealer Bonus Reference
 
 <span class="date">_As of Q1 2019_</span>
 
 ---
 
-I am writing this program as a brief reference point for the person(s)responsible for calculating manufacturer bonus amounts earned each month or for anyone who wants to learn more about how the MB programs generally work and payout at the time of this writing. It may also be helpful for balancing the Sales Doc, especially for the last day of the month.
+This is written as a brief reference point for the person(s) responsible for calculating manufacturer bonus amounts earned each month or for anyone who wants to learn more about how the MB programs generally work and payout at the time of this writing. It may also be helpful for balancing the Sales Doc, especially for the last day of the month.
 
 For the person reporting amounts to accounting, I've provided ways which I've accessed/compiled the information, but feel free to use another, as long as accounting receives the necessary information by the time they need it. Typically they require a spreadsheet that details a bonus amount earned, the program it is earned for, and some unique identifier for the vehicle that earned it (VIN/stock/etc.).
 
